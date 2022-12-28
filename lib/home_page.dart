@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 color: Colors.red,
                 child: Text('BTC price in USD is $currentPrice'),
               ),
-              ElevatedButton(onPressed: fetchData, child: Text('Update price')),
+              ElevatedButton(onPressed: fetchData, child: const Text('Update price')),
             ],
           ),
         ),
