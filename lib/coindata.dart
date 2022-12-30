@@ -10,12 +10,5 @@ List<String> currencies = [
 List<String> cryptoCoins = [
     'BTC',
     'ETH',
-    'LiteCoin',
-    'Crazy Miner',
+    'LTC',
   ];
-
-
-
-class COinData {
-  
-}
